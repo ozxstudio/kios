@@ -30,8 +30,8 @@ Tidak ada algoritma. Tidak ada diskon paksa. Tidak ada komisi.
 
 📦 Buka toko digitalmu sendiri.  
 🛍️ Buat warungmu berdiri sendiri.  
-🌐 Sambut dunia lewat kios.online
-🌐 Order subdomain.kios.online [now] 
+🌐 Sambut dunia lewat kios.online.
+🌐 Order subdomain.kios.online [now] .
 
 - mengurangi dampak polutan asap kendaraan
 - pengguna jalan paling banyak adalah cargo / delivery order / kurir paket //
