@@ -26,4 +26,4 @@ Tidak ada algoritma. Tidak ada diskon paksa. Tidak ada komisi.
 🛍️ Buat warungmu berdiri sendiri.  
 🌐 Sambut dunia lewat kios.online
 
-Kios Online 
+Kios-Online.net [2009] 
