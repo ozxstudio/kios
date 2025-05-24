@@ -23,9 +23,9 @@ Tidak ada algoritma. Tidak ada diskon paksa. Tidak ada komisi.
 - Kamu orang biasa yang punya barang untuk dijual dan mimpi untuk diwujudkan.
 
 # 🧑‍🌾 Petani bisa jual beras
-👩‍🍳 Penjual jajanan bisa jual snack
-🧕 Ibu rumah tangga bisa jual hasil rajut
-🧑‍🎨 Freelancer bisa jual jasa desain
+- 👩‍🍳 Penjual jajanan bisa jual snack
+- 🧕 Ibu rumah tangga bisa jual hasil rajut
+- 🧑‍🎨 Freelancer bisa jual jasa desain
 - etc
 
 📦 Buka toko digitalmu sendiri.  
