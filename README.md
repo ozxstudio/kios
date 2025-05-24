@@ -32,4 +32,7 @@ Tidak ada algoritma. Tidak ada diskon paksa. Tidak ada komisi.
 🛍️ Buat warungmu berdiri sendiri.  
 🌐 Sambut dunia lewat kios.online
 
+- mengurangi dampak polutan asap kendaraan
+- pengguna jalan paling banyak adalah cargo / delivery order / kurir paket //
+
 Kios-Online.net [2009] 
