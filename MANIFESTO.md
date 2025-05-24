@@ -25,4 +25,4 @@ Tidak ada algoritma. Tidak ada diskon paksa. Tidak ada komisi.
 🛍️ Buat warungmu berdiri sendiri.  
 🌐 Sambut dunia lewat kios.online
 
-# kios-online.net [2009] >> kios.online [namecheap/https://www.kios.online/] //
+# kios-online.net [2009] >> kios.online [namecheap][https://www.kios.online/] //
