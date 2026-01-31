@@ -1,13 +1,12 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-// Pastikan tailwindcss diimport jika Anda menggunakannya
-import tailwindcss from '@tailwindcss/vite' 
+import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [
     react(),
-    tailwindcss(), // Pastikan plugin ini dipanggil di sini
+    tailwindcss(),
   ],
-  // CUKUP NAMA REPO NYA SAJA:
+  // Cukup tulis nama repo Anda di sini
   base: '/kios/', 
 })
