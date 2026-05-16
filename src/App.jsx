@@ -49,15 +49,17 @@ const GloriaDiscordBot = () => {
 
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-900 via-blue-900 to-gray-900 p-6">
-      {/* Header */}
+     {/* Header */}
       <div className="max-w-6xl mx-auto mb-8">
         <div className="bg-gradient-to-r from-cyan-500 to-blue-500 p-6 rounded-xl shadow-2xl">
           <div className="flex items-center gap-4 mb-2">
             <div className="w-16 h-16 bg-white rounded-full flex items-center justify-center">
-              <span className="text-3xl">✈️</span>
+              <span className="text-3xl hover:animate-glitch-fast cursor-pointer">✈️</span>
             </div>
             <div>
-              <h1 className="text-3xl font-bold text-white">BOTTIE CERDAS GEN Z</h1>
+             <h1 className="text-3xl font-bold text-white hover:animate-glitch-fast cursor-pointer">
+  BOTTIE CERDAS GEN Z
+</h1>
               <p className="text-cyan-100">Gloria Bank Discord Bot • Letda Sukrowatie AI</p>
             </div>
           </div>
